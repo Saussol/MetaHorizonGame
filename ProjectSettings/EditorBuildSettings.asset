@@ -11,6 +11,9 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/00_Scenes/GameScene.unity
     guid: 2df97a42182fdca43b9ea156657d4e40
+  - enabled: 0
+    path: Assets/BNG Framework/Scenes/XR Demo.unity
+    guid: a1360534006d3f845bc79b46b93cfec5
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: bfa1182bd221b4ca89619141f66f1260, type: 2}
     Unity.XR.WindowsMR.Settings: {fileID: 11400000, guid: dc5a169419fa04987b057f65238cf3ba, type: 2}
